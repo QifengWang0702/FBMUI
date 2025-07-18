@@ -16,7 +16,7 @@ Our framework addresses the challenge of **automated localization and segmentati
 
 in **fetal brain mid-sagittal ultrasound images (FBMUIs)**, enabling efficient prenatal CNS anomaly detection.
 
-![Framework](media/method_overview.png)
+![Framework](media/method_overview.jpg)
 
 ---
 
@@ -36,7 +36,7 @@ in **fetal brain mid-sagittal ultrasound images (FBMUIs)**, enabling efficient p
 ## Demonstrations
 
 ### Method and Results Video
-[![Watch the demo](media/results_demo.gif)](media/demo_video.mp4)
+[![Watch the demo](media/results_demo.gif)](media/demo_video.mov)
 
 - Full process: **Localization → Contour Segmentation → Quantification**  
 - Includes **comparison with active contour baselines** (SNAKE, DRLSE, Chan-Vese, etc.)
