@@ -36,7 +36,7 @@ in **fetal brain mid-sagittal ultrasound images (FBMUIs)**, enabling efficient p
 ## Demonstrations
 
 ### Method and Results Video
-![Watch the demo](media/demo_video.mp4)
+![Watch the demo](media/demo_video.gif)
 
 - Full process: **Localization → Contour Segmentation → Quantification**  
 - Includes **comparison with active contour baselines** (SNAKE, DRLSE, Chan-Vese, etc.)
