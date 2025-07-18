@@ -1,4 +1,4 @@
-# Automatic Localization and Quantitative Segmentation of CCC & CV in Fetal Brain Ultrasound
+# Automatic Localization and Quantitative Segmentation of CCSP & CV in Fetal Brain Ultrasound
 
 This repository presents the research outcomes from:
 
@@ -59,8 +59,6 @@ If you find our work useful in your research, please consider citing:
   doi={10.21037/qims-22-1242}
 }
 ```
-
-[Read the paper (PDF)](docs/Wang2023_QIMS.pdf)
 
 ---
 
