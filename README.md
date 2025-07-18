@@ -43,12 +43,22 @@ in **fetal brain mid-sagittal ultrasound images (FBMUIs)**, enabling efficient p
 
 ---
 
-## Publication
-If you use this work or wish to collaborate, please cite:
-Wang Q, Pei J, Ouyang J, Chen Y, Pu J, Humayun A, Zhao D, Liu B.
-A method framework of automatic localization and quantitative segmentation for the cavum septum pellucidum complex and the cerebellar vermis in fetal brain ultrasound images.
-Quant Imaging Med Surg. 2023;13(9):6059–6088.
-doi:10.21037/qims-22-1242
+## Citation
+
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@article{wang2023ccpcvsegmentation,
+  title={A method framework of automatic localization and quantitative segmentation for the cavum septum pellucidum complex and the cerebellar vermis in fetal brain ultrasound images},
+  author={Wang, Qifeng and Pei, Jingjing and Ouyang, Jian and Chen, Yu and Pu, Jingyu and Humayun, Awais and Zhao, Dongdong and Liu, Bin},
+  journal={Quantitative Imaging in Medicine and Surgery},
+  volume={13},
+  number={9},
+  pages={6059--6088},
+  year={2023},
+  doi={10.21037/qims-22-1242}
+}
+```
 
 [Read the paper (PDF)](docs/Wang2023_QIMS.pdf)
 
